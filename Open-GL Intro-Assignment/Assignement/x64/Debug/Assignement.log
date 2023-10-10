@@ -1,0 +1,25 @@
+﻿  intro.cpp
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(66,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(79,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(82,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(82,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(29,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(149,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(149,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(150,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(150,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(151,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(151,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(152,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(152,14): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(176,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(180,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(182,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(195,9): warning C4244: '=': conversion from 'GLsizei' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(196,9): warning C4244: '=': conversion from 'GLsizei' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(224,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(225,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(226,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(319,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\Assignement\intro.cpp(320,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Assignement.vcxproj -> C:\Users\seanp\Documents\Github\Open-GL-Intro-Assignment\x64\Debug\Assignement.exe
