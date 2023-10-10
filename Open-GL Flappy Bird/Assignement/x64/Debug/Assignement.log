@@ -1,0 +1,26 @@
+﻿  Pipe.cpp
+  FlappyBird.cpp
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(33,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(34,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(40,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(89,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(90,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(99,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(106,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(146,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(147,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(203,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(226,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(239,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(246,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(296,72): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(296,52): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(296,32): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(312,72): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(312,52): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(312,32): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(350,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(358,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\Assignement\FlappyBird.cpp(365,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Assignement.vcxproj -> C:\Users\seanp\Documents\Github\OpenGL-Flappy-Bird\x64\Debug\Assignement.exe
