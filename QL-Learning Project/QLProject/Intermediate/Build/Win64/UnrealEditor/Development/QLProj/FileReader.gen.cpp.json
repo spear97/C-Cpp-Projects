@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\seanp\\documents\\github\\ue5-q-learning\\qlproj\\intermediate\\build\\win64\\unrealeditor\\inc\\qlproj\\filereader.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\seanp\\documents\\github\\ue5-q-learning\\qlproj\\intermediate\\build\\win64\\qlprojeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\seanp\\documents\\github\\ue5-q-learning\\qlproj\\intermediate\\build\\win64\\unrealeditor\\development\\qlproj\\definitions.qlproj.h",
+            "c:\\users\\seanp\\documents\\github\\ue5-q-learning\\qlproj\\source\\qlproj\\public\\filereader.h",
+            "c:\\users\\seanp\\documents\\github\\ue5-q-learning\\qlproj\\intermediate\\build\\win64\\unrealeditor\\inc\\qlproj\\filereader.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
