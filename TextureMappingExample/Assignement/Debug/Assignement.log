@@ -1,0 +1,3 @@
+﻿  TextureExample1.c
+C:\Users\seanp\source\repos\Assignement\Assignement\TextureExample1.c(117,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignement.vcxproj -> C:\Users\seanp\source\repos\Assignement\Debug\Assignement.exe
